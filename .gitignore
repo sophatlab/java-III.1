@@ -1,0 +1,6 @@
+# Java
+*.class
+# Log files
+*.log
+# Temporary files
+*.tmp
