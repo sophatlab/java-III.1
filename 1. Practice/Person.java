@@ -8,13 +8,13 @@ public class Person {
     public String phone;
 
     public void showPerson() {
-        System.out.println("Name: " + name);
-        System.out.println("Gender: " + gender);
-        System.out.println("Date of Birth: " + dob);
-        System.out.println("National ID: " + nationalId);
-        System.out.println("Address: " + address);
-        System.out.println("Email: " + email);
-        System.out.println("Phone Number: " + phone);
+        System.out.println("Name: " + this.name);
+        System.out.println("Gender: " + this.gender);
+        System.out.println("Date of Birth: " + this.dob);
+        System.out.println("National ID: " + this.nationalId);
+        System.out.println("Address: " + this.address);
+        System.out.println("Email: " + this.email);
+        System.out.println("Phone Number: " + this.phone);
     }
 
     // public void main(String[] args) {
