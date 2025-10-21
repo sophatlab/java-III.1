@@ -2,6 +2,7 @@ public class Person {
     public String name;
     public String gender;
     public String dob;
+    public String nationalId;
     public String address;
     public String email;
     public String phone;
@@ -10,6 +11,7 @@ public class Person {
         System.out.println("Name: " + name);
         System.out.println("Gender: " + gender);
         System.out.println("Date of Birth: " + dob);
+        System.out.println("National ID: " + nationalId);
         System.out.println("Address: " + address);
         System.out.println("Email: " + email);
         System.out.println("Phone Number: " + phone);
@@ -20,6 +22,7 @@ public class Person {
         person.name = "Sophat LEAT";
         person.gender = "Male";
         person.dob = "10/10/2001";
+        person.nationalId = "101010101010";
         person.address = "Phnom Penh, Cambodia";
         person.email = "info.sophat@gmail.com";
         person.phone = "096 918 3363";
