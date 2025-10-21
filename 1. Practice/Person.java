@@ -17,15 +17,15 @@ public class Person {
         System.out.println("Phone Number: " + phone);
     }
 
-    public void main(String[] args) {
-        Person person = new Person();
-        person.name = "Sophat LEAT";
-        person.gender = "Male";
-        person.dob = "10/10/2001";
-        person.nationalId = "101010101010";
-        person.address = "Phnom Penh, Cambodia";
-        person.email = "info.sophat@gmail.com";
-        person.phone = "096 918 3363";
-        person.showPerson();
-    }
+    // public void main(String[] args) {
+    //     Person person = new Person();
+    //     person.name = "Sophat LEAT";
+    //     person.gender = "Male";
+    //     person.dob = "10/10/2001";
+    //     person.nationalId = "101010101010";
+    //     person.address = "Phnom Penh, Cambodia";
+    //     person.email = "info.sophat@gmail.com";
+    //     person.phone = "096 918 3363";
+    //     person.showPerson();
+    // }
 }
