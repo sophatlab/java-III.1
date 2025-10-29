@@ -1,4 +1,4 @@
-# Chapter 1: Object Oriented Programming (OOP) Concepts
+# Object Oriented Programming (OOP) Concepts
 Class គឺជាគំរូ (Blueprint) សម្រាប់បង្កើត Object (Instance) មួយ។ វាមានទាំង Data Members (Attributes) និង Methods (Functions) ដែលកំណត់លក្ខណៈ និងមុខងាររបស់ Object នោះ។
 
 នៅក្នុង class អាចដាក់ Object បាន 2 ធំៗដូចជា៖
